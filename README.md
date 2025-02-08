@@ -31,4 +31,4 @@ Click below to open the notebook in **Google Colab**:
 
 ---
 
-**👨‍💻 Author:** [Your Name](https://github.com/Pavitr-Swain)
+**👨‍💻 Author:** [Pavitr](https://github.com/Pavitr-Swain)
