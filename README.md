@@ -5,7 +5,7 @@ This project analyzes heart disease data using **Python, Pandas, Matplotlib, and
 It includes **data cleaning, transformation, visualization, and insights**.
 
 ## 📌 Live Google Colab Link  
-Click below to open the notebook in **Google Colab**:  
+Click below to open the notebook in **Google Colab**: 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_github_username/Heart-Disease-Analysis/blob/main/Heart_Disease_Analysis.ipynb)
 
 ## 📂 Dataset  
